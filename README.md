@@ -6,7 +6,7 @@
     <title>Curious to grow</title>
   </head>
   <body>
-    Contenu du site:
+    <p>Contenu du site:</p>
     <ul>
       <a href="Variations du métabolisme entre les individus.html">Variations du métabolisme entre les individus.</a>
     </ul>
